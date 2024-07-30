@@ -70,7 +70,7 @@ function renderLicenseLink(license) {
     case "Boost Software License 1.0":
       return "https://choosealicense.com/licenses/bsl-1.0/"
     
-    case "The Unilicense":
+    case "The Unlicense":
       return "https://choosealicense.com/licenses/unlicense/"
 
     default:

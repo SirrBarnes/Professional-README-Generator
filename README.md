@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-Unlicense-brightgreen)](https://choosealicense.com/licenses/unlicense/)
 # Professional README Generator
 
 ## Description
